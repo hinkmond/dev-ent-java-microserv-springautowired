@@ -17,7 +17,7 @@
     </parent>
 
     <properties>
-        <start-class>com.hinkmond.hello.GreetingApplication</start-class>
+        <start-class>com.hinkmond.hello.GreetingSpringBootApp</start-class>
     </properties>
 
     <dependencies>
